@@ -48,7 +48,7 @@ I’m just getting started in QA, but I’m ready to contribute, learn, and grow
 - Creativity <br><br>
 
 ### **Project Experience** 💼    
-#### *E-commerce Website Testing Project* - Online Course Project  
+#### *E-commerce Website Testing Project* - Online Course Project   
 - Developed comprehensive test cases for key e-commerce features : Cart, Checkout, Profile, and Admin functionalities.  
 - Executed test cases to validate the functionality and usability, ensuring a seamless user experience.  
 - Created detailed bug reports for identified issues, documenting steps to reproduce, priority - severity levels, and screenshots for clarity.  
