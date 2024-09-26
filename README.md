@@ -14,7 +14,7 @@ I have a keen eye for detail from my design days and always consider the user’
 
 I’m just getting started in QA, but I’m ready to contribute, learn, and grow in this exciting field. <br><br>
 
-[My Linkedin profile](www.linkedin.com/in/utami-fitriani-hai)  
+[My Linkedin profile](https://www.linkedin.com/in/utami-fitriani-hai/)  
 [My Behance portfolio](https://www.behance.net/utamifitriani) <br><br>
 
 ### **Courses & Certificates** 🏆  
@@ -48,26 +48,26 @@ I’m just getting started in QA, but I’m ready to contribute, learn, and grow
 - Creativity <br><br>
 
 ### **Project Experience** 💼    
-#### *E-commerce Website Testing Project*
+#### *E-commerce Website Testing Project* - Online Course Project  
 - Developed comprehensive test cases for key e-commerce features : Cart, Checkout, Profile, and Admin functionalities.  
 - Executed test cases to validate the functionality and usability, ensuring a seamless user experience.  
 - Created detailed bug reports for identified issues, documenting steps to reproduce, priority - severity levels, and screenshots for clarity.  
 - Presented testing results, highlighting key findings, defects, and recommendations for improvement.
 
-#### *SQL Data Retrieval Project*
+#### *SQL Data Retrieval Project* - Online Course Project  
 - Designed and executed SQL queries to extract and analyze data from databases.
 
-#### *Automated Click Testing Using IntelliJ*
+#### *Automated Click Testing Using IntelliJ* - Online Course Project  
 - Developed and implemented automated click scripts using IntelliJ to test website functionalities, simulating user interactions such as clicks, navigation, and form submissions.  
 
-#### *E-commerce Website Test Case Development*
+#### *E-commerce Website Test Case Development* - Online Course Project  
 - Developed detailed test cases for key e-commerce features :  Login, Product Details, Cart, Delivery Information, and Checkout to ensure all user flows function as expected.  
 - Designed test scenarios covering positive, negative, and edge cases to validate functionality  
 
-#### *Bug Reporting Project*
+#### *Bug Reporting Project* - Online Course Project  
 - Created detailed bug reports in JIRA, documenting issues with clear descriptions, steps to reproduce, expected vs. actual results, and relevant screenshots.  
 
-#### *Website Test Case Development*
+#### *Website Test Case Development* - Online Course Project  
 - Designed comprehensive test cases for website functionality including edge cases and negative testing.  
 - Created test cases based on requirements and ensuring alignment with project goals and specifications.  
 
