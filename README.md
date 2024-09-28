@@ -42,10 +42,10 @@ I’m just getting started in QA, but I’m ready to contribute, learn, and grow
 - Ability to work in a team  
 - Time Management  
 - Adaptability  
-- Attention to Detail
 - Project Lead Experience    
 - Eagerness to Learn
-- Creativity <br><br>
+- Creativity
+- Attention to Detail <br><br>
 
 ### **Project Experience** 💼    
 #### *E-commerce Website Testing Project* - Online Course Project   
@@ -55,7 +55,7 @@ I’m just getting started in QA, but I’m ready to contribute, learn, and grow
 - Presented testing results, highlighting key findings, defects, and recommendations for improvement.
 
 #### *SQL Data Retrieval Project* - Online Course Project  
-- Designed and executed SQL queries to extract and analyze data from databases.
+- [Designed and executed SQL queries](https://docs.google.com/document/d/1uxX5emZ5ADJ2yhwom0hFO06aU71YXqXaEl4hLCBpYd4/edit?usp=sharing) to extract and analyze data from databases.
 
 #### *Automated Click Testing Using IntelliJ* - Online Course Project  
 - Developed and implemented automated click scripts using IntelliJ to test website functionalities, simulating user interactions such as clicks, navigation, and form submissions.  
