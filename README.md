@@ -62,7 +62,7 @@ I’m just getting started in QA, but I’m ready to contribute, learn, and grow
 
 #### *E-commerce Website Test Case Development* - Online Course Project   
 - Created [Epics, Stories, and Tasks in JIRA](https://docs.google.com/document/d/1sSxCYu-tXcOBnrfDaSnpC5WGJ7-UuJJRkG69ptL7Kmc/edit?usp=sharing) based on the Product Requirements Document (PRD)
-- Developed detailed test cases for key e-commerce features :  Login, Product Details, Cart, Delivery Information, and Checkout to ensure all user flows function as expected.  
+- Developed detailed [test cases](https://docs.google.com/spreadsheets/d/1TkRXDpIvogbG9wOBlk4cfwhr6UrLCMrFH9ZYATDB1MM/edit?usp=sharing) for key e-commerce features :  Login, Product Details, Cart, Delivery Information, and Checkout to ensure all user flows function as expected.  
 - Designed test scenarios covering positive, negative, and edge cases to validate functionality  
 
 #### *Bug Reporting Project* - Online Course Project  
