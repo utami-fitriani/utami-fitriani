@@ -49,28 +49,28 @@ I’m just getting started in QA, but I’m ready to contribute, learn, and grow
 
 ### **Project Experience** 💼    
 #### *E-commerce Website Testing Project* - Online Course Project   
-- Developed comprehensive test cases for key e-commerce features : Cart, Checkout, Profile, and Admin functionalities.  
-- Executed test cases to validate the functionality and usability, ensuring a seamless user experience.  
-- Created detailed bug reports for identified issues, documenting steps to reproduce, priority - severity levels, and screenshots for clarity.  
-- Presented testing results, highlighting key findings, defects, and recommendations for improvement.
+- Developed test cases for key e-commerce features: Cart, Checkout, Profile, and Admin.  
+- Executed test cases to validate functionality and usability for user experience.  
+- Created detailed bug reports, documenting reproduction steps, priority levels, and screenshots.  
+- Presented testing results, highlighting key findings and recommendations for improvement.  
+
 
 #### *SQL Data Retrieval Project* - Online Course Project  
-- [Designed and executed SQL queries](https://docs.google.com/document/d/1uxX5emZ5ADJ2yhwom0hFO06aU71YXqXaEl4hLCBpYd4/edit?usp=sharing) to extract and analyze data from databases.
+- [Designed and executed SQL queries](https://docs.google.com/document/d/1uxX5emZ5ADJ2yhwom0hFO06aU71YXqXaEl4hLCBpYd4/edit?usp=sharing) to extract data from databases.
 
 #### *Automated Click Testing Using IntelliJ* - Online Course Project  
 - Developed and implemented automated click scripts using IntelliJ to test website functionalities, simulating user interactions such as clicks, navigation, and form submissions.  
 
 #### *E-commerce Website Test Case Development* - Online Course Project   
 - Created [Epics, Stories, and Tasks in JIRA](https://docs.google.com/document/d/1sSxCYu-tXcOBnrfDaSnpC5WGJ7-UuJJRkG69ptL7Kmc/edit?usp=sharing) based on the Product Requirements Document (PRD)
-- Developed detailed [test cases](https://docs.google.com/spreadsheets/d/1TkRXDpIvogbG9wOBlk4cfwhr6UrLCMrFH9ZYATDB1MM/edit?usp=sharing) for key e-commerce features :  Login, Product Details, Cart, Delivery Information, and Checkout to ensure all user flows function as expected.  
+- Developed [test cases](https://docs.google.com/spreadsheets/d/1TkRXDpIvogbG9wOBlk4cfwhr6UrLCMrFH9ZYATDB1MM/edit?usp=sharing) for key e-commerce features :  Login, Product Details, Cart, Delivery Information, and Checkout to ensure all user flows function as expected.  
 - Designed test scenarios covering positive, negative, and edge cases to validate functionality  
 
 #### *Bug Reporting Project* - Online Course Project  
-- Created detailed [bug reports in JIRA](https://docs.google.com/document/d/1fvwTq4ZTgBoXLizvKVZmhdJr4uKBTtRTj5J5DfL8v6s/edit?usp=sharing), documenting issues with clear descriptions, steps to reproduce, expected vs. actual results, and relevant screenshots.  
+- Created [bug reports in JIRA](https://docs.google.com/document/d/1fvwTq4ZTgBoXLizvKVZmhdJr4uKBTtRTj5J5DfL8v6s/edit?usp=sharing), documenting issues with clear descriptions, steps to reproduce, expected vs. actual results, and relevant screenshots.  
 
 #### *Website Test Case Development* - Online Course Project  
-- Designed comprehensive [test cases](https://docs.google.com/spreadsheets/d/1Ggrv6ZaToD1NFELWznfbKs36dLF719Y8cmK1VWsH4Ks/edit?usp=sharing) for website functionality including negative testing.  
-- Created test cases based on requirements and ensuring alignment with project goals and specifications.  
+- Created [test cases](https://docs.google.com/spreadsheets/d/1Ggrv6ZaToD1NFELWznfbKs36dLF719Y8cmK1VWsH4Ks/edit?usp=sharing) including negative tests, aligned with project goals and requirements.
 
  
 
