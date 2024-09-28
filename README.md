@@ -59,7 +59,7 @@ I’m just getting started in QA, but I’m ready to contribute, learn, and grow
 - [Designed and executed SQL queries](https://docs.google.com/document/d/1uxX5emZ5ADJ2yhwom0hFO06aU71YXqXaEl4hLCBpYd4/edit?usp=sharing) to extract data from databases.
 
 #### *Automated Click Testing Using IntelliJ* - Online Course Project  
-- Developed and implemented [automated click scripts using IntelliJ](https://drive.google.com/file/d/1W9Ieqhn0el3eh90czf-mYPuUfAFQbmnZ/view?usp=sharing) to test website functionalities, simulating user interactions such as clicks, navigation, and form submissions.  
+- Developed and implemented [automated click scripts using IntelliJ](https://github.com/utami-fitriani/automated-click/tree/main) to test website functionalities, simulating user interactions such as clicks, navigation, and form submissions.  
 
 #### *E-commerce Website Test Case Development* - Online Course Project   
 - Created [Epics, Stories, and Tasks in JIRA](https://docs.google.com/document/d/1sSxCYu-tXcOBnrfDaSnpC5WGJ7-UuJJRkG69ptL7Kmc/edit?usp=sharing) based on the Product Requirements Document (PRD)
