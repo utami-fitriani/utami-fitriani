@@ -65,7 +65,7 @@ I’m just getting started in QA, but I’m ready to contribute, learn, and grow
 - Designed test scenarios covering positive, negative, and edge cases to validate functionality  
 
 #### *Bug Reporting Project* - Online Course Project  
-- Created detailed bug reports in JIRA, documenting issues with clear descriptions, steps to reproduce, expected vs. actual results, and relevant screenshots.  
+- Created detailed [bug reports in JIRA](https://docs.google.com/document/d/1fvwTq4ZTgBoXLizvKVZmhdJr4uKBTtRTj5J5DfL8v6s/edit?usp=sharing), documenting issues with clear descriptions, steps to reproduce, expected vs. actual results, and relevant screenshots.  
 
 #### *Website Test Case Development* - Online Course Project  
 - Designed comprehensive [test cases](https://docs.google.com/spreadsheets/d/1Ggrv6ZaToD1NFELWznfbKs36dLF719Y8cmK1VWsH4Ks/edit?usp=sharing) for website functionality including negative testing.  
