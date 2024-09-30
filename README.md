@@ -52,7 +52,7 @@ I’m just getting started in QA, but I’m ready to contribute, learn, and grow
 - Developed [test cases](https://docs.google.com/spreadsheets/d/1uFKrw4-T3RsDOnvgsl7DDw0m8DB8AsmHyHtbwImoZsQ/edit?usp=sharing) for key e-commerce features: Cart, Checkout, Profile, and Admin.  
 - Executed test cases to validate functionality and usability for user experience.  
 - Created detailed [bug reports](https://docs.google.com/spreadsheets/d/1IaRvhgRtbnmFXz9q3u_c0G50vObty4rLjrzd6xgGz4A/edit?usp=sharing), documenting reproduction steps, priority levels, and screenshots.  
-- Presented testing results, highlighting key findings and recommendations for improvement.  
+- [Presented testing results](https://docs.google.com/presentation/d/1i9l5yU-gLF10aep09EQTaR6fedF91brxiWAcKZuN4Ww/edit?usp=sharing), highlighting key findings and recommendations for improvement.  
 
 
 #### *SQL Data Retrieval Project* - Online Course Project  
