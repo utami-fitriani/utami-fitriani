@@ -48,29 +48,26 @@ I’m just getting started in QA, but I’m ready to contribute, learn, and grow
 - Attention to Detail <br><br>
 
 ### **Project Experience** 💼    
-#### *E-commerce Website Testing Project* - Online Course Project   
-- Developed [test cases](https://docs.google.com/spreadsheets/d/1uFKrw4-T3RsDOnvgsl7DDw0m8DB8AsmHyHtbwImoZsQ/edit?usp=sharing) for key e-commerce features: Cart, Checkout, Profile, and Admin.  
-- Executed test cases to validate functionality and usability for user experience.  
+#### *E-commerce Website Testing Project* - Growia Course Project   
+- Developed & executed [test cases](https://docs.google.com/spreadsheets/d/1uFKrw4-T3RsDOnvgsl7DDw0m8DB8AsmHyHtbwImoZsQ/edit?usp=sharing) to validate the functionality and usability of key e-commerce features, including Cart, Checkout, Profile, and Admin, ensuring an optimal user experience.
 - Created detailed [bug reports](https://docs.google.com/spreadsheets/d/1IaRvhgRtbnmFXz9q3u_c0G50vObty4rLjrzd6xgGz4A/edit?usp=sharing), documenting reproduction steps, priority levels, and screenshots.  
-- [Presented testing results](https://docs.google.com/presentation/d/1i9l5yU-gLF10aep09EQTaR6fedF91brxiWAcKZuN4Ww/edit?usp=sharing), highlighting key findings and recommendations for improvement.  
+- [Presented testing results](https://docs.google.com/presentation/d/1i9l5yU-gLF10aep09EQTaR6fedF91brxiWAcKZuN4Ww/edit?usp=sharing) and provided actionable recommendations to enhance the software quality
 
+#### *SQL Data Retrieval Project* - Growia Course Project  
+- [Designed and executed SQL queries](https://docs.google.com/document/d/1uxX5emZ5ADJ2yhwom0hFO06aU71YXqXaEl4hLCBpYd4/edit?usp=sharing) to extract data from databases for verification.
 
-#### *SQL Data Retrieval Project* - Online Course Project  
-- [Designed and executed SQL queries](https://docs.google.com/document/d/1uxX5emZ5ADJ2yhwom0hFO06aU71YXqXaEl4hLCBpYd4/edit?usp=sharing) to extract data from databases.
+#### *Automated Click Testing Using IntelliJ* - Growia Course Project  
+- Developed [automated scripts](https://github.com/utami-fitriani/automated-click/tree/main) to simulate user interactions such as clicks, navigation, and form submissions on websites.
 
-#### *Automated Click Testing Using IntelliJ* - Online Course Project  
-- Developed and implemented [automated click scripts using IntelliJ](https://github.com/utami-fitriani/automated-click/tree/main) to test website functionalities, simulating user interactions such as clicks, navigation, and form submissions.  
-
-#### *E-commerce Website Test Case Development* - Online Course Project   
+#### *E-commerce Website Test Case Development* - Growia Course Project   
 - Created [Epics, Stories, and Tasks in JIRA](https://docs.google.com/document/d/1sSxCYu-tXcOBnrfDaSnpC5WGJ7-UuJJRkG69ptL7Kmc/edit?usp=sharing) based on the Product Requirements Document (PRD)
-- Developed [test cases](https://docs.google.com/spreadsheets/d/1TkRXDpIvogbG9wOBlk4cfwhr6UrLCMrFH9ZYATDB1MM/edit?usp=sharing) for key e-commerce features :  Login, Product Details, Cart, Delivery Information, and Checkout to ensure all user flows function as expected.  
-- Designed test scenarios covering positive, negative, and edge cases to validate functionality  
+- Designed comprehensive [test cases](https://docs.google.com/spreadsheets/d/1TkRXDpIvogbG9wOBlk4cfwhr6UrLCMrFH9ZYATDB1MM/edit?usp=sharing) for key e-commerce features :  Login, Product Details, Cart, Delivery Information, and Checkout to ensure all user flows function as expected.   
 
-#### *Bug Reporting Project* - Online Course Project  
+#### *Bug Reporting Project* - Growia Course Project  
 - Created [bug reports in JIRA](https://docs.google.com/document/d/1fvwTq4ZTgBoXLizvKVZmhdJr4uKBTtRTj5J5DfL8v6s/edit?usp=sharing), documenting issues with clear descriptions, steps to reproduce, expected vs. actual results, and relevant screenshots.  
 
-#### *Website Test Case Development* - Online Course Project  
-- Created [test cases](https://docs.google.com/spreadsheets/d/1Ggrv6ZaToD1NFELWznfbKs36dLF719Y8cmK1VWsH4Ks/edit?usp=sharing) including negative tests, aligned with project goals and requirements.
+#### *Website Test Case Development* - Growia Course Project  
+- Designed comprehensive [test cases](https://docs.google.com/spreadsheets/d/1Ggrv6ZaToD1NFELWznfbKs36dLF719Y8cmK1VWsH4Ks/edit?usp=sharing) aligned with project goals and requirements.
 
  
 
