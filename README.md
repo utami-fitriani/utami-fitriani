@@ -18,7 +18,7 @@ I’m just getting started in QA, but I’m ready to contribute, learn, and grow
 [My Behance portfolio](https://www.behance.net/utamifitriani) <br><br>
 
 ### **Courses & Certificates** 🏆  
-- [QA Manual Training](https://drive.google.com/file/d/1jGhKqerQ9DhjIhtLoSfgvr21Ru_nbQ6Q/view?usp=sharing) - [Growia Education](https://www.growia.education/id) <br><br>
+- [QA Manual Training](https://drive.google.com/file/d/1Hs201t7g4Q68Fmm3ojXAtoiab3kUJjyM/view?usp=sharing) - [Growia Education](https://www.growia.education/id) <br><br>
 
 ### **Testing Skills** 🛠️  
 
