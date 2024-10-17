@@ -55,7 +55,7 @@ I’m just getting started in QA, but I’m ready to contribute, learn, and grow
 - [Presented testing results](https://docs.google.com/presentation/d/1i9l5yU-gLF10aep09EQTaR6fedF91brxiWAcKZuN4Ww/edit?usp=sharing) and provided actionable recommendations to enhance the software quality
 
 #### *API Testing Project* - Growia Course Project  
-- [Verify API Response](https://docs.google.com/presentation/d/1stbRHVrfPkivMztcI8MTnJAFeDNrR8dwo9-W8vw_hu4/edit?usp=sharing) using GET, POST, PUT, methods.  
+- [Verify API response](https://docs.google.com/presentation/d/1stbRHVrfPkivMztcI8MTnJAFeDNrR8dwo9-W8vw_hu4/edit?usp=sharing) using GET, POST, PUT, methods.  
 #### *SQL Data Retrieval Project* - Growia Course Project  
 - [Designed and executed SQL queries](https://docs.google.com/document/d/1uxX5emZ5ADJ2yhwom0hFO06aU71YXqXaEl4hLCBpYd4/edit?usp=sharing) to extract data from databases for verification.
 
